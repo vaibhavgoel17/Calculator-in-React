@@ -16,16 +16,16 @@ If any of these conditions are not met, it shows an error.
 
 ## Screenshots
 
-![Calculator](.\public\calc.png)
+![Calculator](./public/calc.png)
 
-![Error1](.\public\error1.png)
+![Error1](./public/error1.png)
 
-![Error2](.\public\error2.png)
+![Error2](./public/error2.png)
 
-![Addition](.\public\addition.png)
+![Addition](./public/addition.png)
 
-![Subtraction](.\public\subtraction.png)
+![Subtraction](./public/subtraction.png)
 
-![Multiplication](.\public\multiplication.png)
+![Multiplication](./public/multiplication.png)
 
-![Division](.\public\division.png)
+![Division](./public/division.png)
