@@ -22,7 +22,7 @@ If any of these conditions are not met, it shows an error.
 
 ![Error2](/public/error2.png)
 
-![Addition](/public/addition.png)
+![Addition](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/addition.PNG)
 
 ![Subtraction](/public/subtraction.png)
 
