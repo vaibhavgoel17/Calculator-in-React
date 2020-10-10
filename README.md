@@ -16,16 +16,16 @@ If any of these conditions are not met, it shows an error.
 
 ## Screenshots
 
-![Calculator](/public/calc.png)
+![Calculator](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/calc.PNG)
 
-![Error1](/public/error1.png)
+![Error1](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/error1.PNG)
 
-![Error2](/public/error2.png)
+![Error2](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/error2.PNG)
 
 ![Addition](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/addition.PNG)
 
-![Subtraction](/public/subtraction.png)
+![Subtraction](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/subtraction.PNG)
 
-![Multiplication](/public/multiplication.png)
+![Multiplication](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/multiplication.PNG)
 
-![Division](/public/division.png)
+![Division](https://raw.githubusercontent.com/vaibhavgoel17/Calculator-in-React/master/public/division.PNG)
